@@ -1,0 +1,6 @@
+# KiCad local/project state
+*.kicad_prl
+.history/
+*-backups/
+fp-info-cache
+fp-lib-table
