@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/branding/Banner_MakaniMotion.svg" alt="MakaniMotion Banner" width="66%">
+  <img src="assets/branding/Banner_MakaniMotion.png" alt="MakaniMotion Banner" width="66%">
 </p>
 
 # MakaniMotion MM-Fan GEN 1
@@ -42,7 +42,7 @@ MakaniMotion MM-Fan GEN 1 is built around three main modules. Each module has a 
 ### MM-BASE
 
 <p align="left">
-  <img src="assets/images/mm-base.png" alt="MM-BASE Module" width="33%">
+  <img src="assets/images/mm-base.png" alt="MM-BASE Module" width="40%">
 </p>
 
 **MM-BASE** is the base and control module of the system.
@@ -71,7 +71,7 @@ In the current GEN 1 prototype, MM-BASE may not work directly with all USB charg
 ### MM-AIR
 
 <p align="left">
-  <img src="assets/images/mm-air.png" alt="MM-AIR Module" width="33%">
+  <img src="assets/images/mm-air.png" alt="MM-AIR Module" width="40%">
 </p>
 
 **MM-AIR** is the fan / airflow module of the system.
@@ -98,7 +98,7 @@ An interface PCB is mounted on the side of the module. The **mm-interface-pcba-g
 ### MM-TRI
 
 <p align="left">
-  <img src="assets/images/mm-tri.png" alt="MM-TRI Module" width="33%">
+  <img src="assets/images/mm-tri.png" alt="MM-TRI Module" width="40%">
 </p>
 
 **MM-TRI** is the tripod module for the free-standing build configuration.
@@ -134,7 +134,7 @@ MakaniMotion MM-Fan GEN 1 can typically be assembled in two main configurations:
 The table version is designed to be placed on a desk or similar surface.
 
 <p align="left">
-  <img src="assets/images/build-configurations-table-version.png" alt="MakaniMotion Fan GEN 1 Table Version" width="66%">
+  <img src="assets/images/build-configurations-table-version.png" alt="MakaniMotion Fan GEN 1 Table Version" width="70%">
 </p>
 
 In this configuration, the **MM-TRI** tripod module is not required.
@@ -146,7 +146,7 @@ Because the modules are connected by cables, the physical layout can be adapted 
 The stand version is designed as a free-standing fan setup.
 
 <p align="left">
-  <img src="assets/images/build-configurations-stand-version.png" alt="MakaniMotion Fan GEN 1 Stand Version" width="66%">
+  <img src="assets/images/build-configurations-stand-version.png" alt="MakaniMotion Fan GEN 1 Stand Version" width="70%">
 </p>
 
 In this configuration, the **MM-TRI** tripod module is required.
