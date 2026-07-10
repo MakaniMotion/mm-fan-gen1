@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/branding/Banner_MakaniMotion.png" alt="MakaniMotion Banner" width="66%">
+  <img src="assets/branding/Banner_MakaniMotion.png" alt="MakaniMotion Banner" width="70%">
 </p>
 
 # MakaniMotion MM-Fan GEN 1
